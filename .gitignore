@@ -1,5 +1,7 @@
-#to exclude all binaries (on linux)
+
 .idea
+
+#to exclude all binaries (on linux)
 *
 !/**/
 !*.*
